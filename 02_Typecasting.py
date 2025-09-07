@@ -3,5 +3,5 @@
 name = "ABC"
 age = 21
 distance = 50.0
-graduated = True
+
 
